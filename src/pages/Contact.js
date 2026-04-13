@@ -22,7 +22,7 @@ function Contact() {
         <a href="https://facebook.com" target="_blank" rel="noreferrer">
           <FaFacebook style={{ margin: "10px", color: "blue" }} />
         </a>
-       <marquee><i><h3>for more information contact the number</h3></i></marquee>
+       <p className="scroll-text">Contact us for more details!</p>
 
       </div>
     </div>
