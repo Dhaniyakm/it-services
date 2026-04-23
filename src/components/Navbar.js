@@ -15,7 +15,6 @@ function Navbar() {
       >
         <span></span>
         <span></span>
-        <span></span>
       </div>
 
       <ul className={menuOpen ? "nav-links active" : "nav-links"}>
